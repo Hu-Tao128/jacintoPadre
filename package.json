@@ -1,0 +1,29 @@
+{
+  "name": "jacintopadre",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hu-Tao128/jacintoPadre.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hu-Tao128/jacintoPadre/issues"
+  },
+  "homepage": "https://github.com/Hu-Tao128/jacintoPadre#readme",
+  "description": "",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
+    "querystring": "^0.2.1",
+    "request": "^2.88.2"
+  }
+}
